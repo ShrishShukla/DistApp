@@ -2,7 +2,7 @@
 
 ## Distr
 
-An open source code for enterprise solutions connecting transport providers and customers.
+code for enterprise solutions connecting transport providers and customers.
 
 ## paths
 
