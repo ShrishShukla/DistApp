@@ -1,5 +1,22 @@
 # DistApp
 
+## Distr
+
+An open source code for enterprise solutions connecting transport providers and customers.
+
+## paths
+
+| Serial no. | path  |
+| ------------ | -------------- |
+| 1            | home           |
+| 2            | add-issue      |
+| 3            | customer       |
+| 4            | provider       |
+| 5            | edit-issue/:id |
+| 6            | issues-list    |
+
+## Getting Started
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
 
 ## Development server
